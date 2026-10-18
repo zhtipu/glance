@@ -14,7 +14,7 @@ Meet Pico, the little coral owl who keeps you company when a screen has nothing 
 - **Parcels**: where your deliveries are, with a screen of their own for the one you care about most.
 - **Alerts**: earthquakes, storms, floods and "rain soon" fill the whole screen for a short while, then go away by themselves.
 
-Press the button on the Glance Display to move to the next screen, or let it rotate through them on its own.
+Choose the screen you want from the settings page or from Glance Manager, or turn on automatic rotation to let it move through them on its own.
 
 ## Getting started
 
@@ -61,7 +61,7 @@ You can also update from Glance Manager under Device > System.
 - **A faint shadow of another screen is visible:** this can happen on any screen that shows the same picture for a long time. Use Display > Clear ghosting.
 - **Claude, PC, parcel or alert screens are empty:** Glance Manager needs to be running on your computer, on the same WiFi.
 - **The display says SAFE MODE:** it restarted after a problem. Unplug it for a few seconds. If it comes back, update the firmware again.
-- **You lost the address:** hold the button for about 1.5 seconds. The address shows for 20 seconds.
+- **You lost the address:** Glance Manager finds your display by itself and shows its address. Without it, try `glance.local` in your browser, or unplug the display and plug it back in: it shows its address on the screen while it starts.
 - **You changed your WiFi or moved house:** open the settings, go to WiFi and forget the network. The display opens **Glance-Setup** again.
 
 ## Privacy
