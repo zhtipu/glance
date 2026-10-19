@@ -21,7 +21,9 @@ Choose the screen you want from the settings page or from Glance Manager, or tur
 1. Plug in your Glance Display. The first time, it shows **Setup mode**.
 2. On your phone or computer, join the WiFi network called **Glance-Setup**.
 3. A page opens. Choose your home WiFi, type its password and save. (The Glance Display works with 2.4 GHz WiFi.)
-4. The Glance Display shows an address on its screen. Open that address in any web browser on the same WiFi to change settings and set your city.
+4. On any phone or computer connected to the same WiFi, open a web browser and go to **glance.local**. That is your settings page. Set your city there.
+
+If `glance.local` does not open, use the number shown on the Glance Display's screen instead.
 
 If the clock says "Syncing time..." for more than a minute, check that your WiFi has internet.
 
@@ -31,7 +33,7 @@ Glance Manager is a free app for your computer. It is optional, but it unlocks t
 
 ## Settings
 
-Open the address shown on the Glance Display in a browser, or use Glance Manager. You can:
+Go to **glance.local** in a browser on the same WiFi, or use Glance Manager. You can:
 
 - Pick a **theme**: Clay, Ocean, Forest, Amoled or Mono. One tap recolors every screen.
 - Choose your **city**, units and time zone. Glance can also find your city by itself.
@@ -46,7 +48,7 @@ Every group of settings has a reset button, so you can always go back to how it 
 
 New versions are installed over WiFi, and your settings are kept.
 
-1. Open the Glance Display's address in a browser and add `/update` at the end.
+1. In a browser on the same WiFi, go to **glance.local/update**.
 2. Choose the new Glance file and upload it. Keep the display plugged in.
 3. It restarts by itself after about half a minute.
 
@@ -61,7 +63,7 @@ You can also update from Glance Manager under Device > System.
 - **A faint shadow of another screen is visible:** this can happen on any screen that shows the same picture for a long time. Use Display > Clear ghosting.
 - **Claude, PC, parcel or alert screens are empty:** Glance Manager needs to be running on your computer, on the same WiFi.
 - **The display says SAFE MODE:** it restarted after a problem. Unplug it for a few seconds. If it comes back, update the firmware again.
-- **You lost the address:** Glance Manager finds your display by itself and shows its address. Without it, try `glance.local` in your browser, or unplug the display and plug it back in: it shows its address on the screen while it starts.
+- **glance.local does not open:** make sure your phone or computer is on the same WiFi as the display (not mobile data or a guest network). Wait a minute and try again. If it still fails, unplug the display and plug it back in: it shows its number on the screen while it starts, and you can type that instead. Glance Manager also finds the display by itself.
 - **You changed your WiFi or moved house:** open the settings, go to WiFi and forget the network. The display opens **Glance-Setup** again.
 
 ## Privacy
