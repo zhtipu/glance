@@ -1,5 +1,8 @@
 # Glance
 
+<img width="1672" height="941" alt="Pico beside a warm desktop clock" src="https://github.com/user-attachments/assets/597929fd-20a5-4600-ba51-752390889aa7" />
+
+
 Glance is the software that runs on your Glance Display, a small desk screen that shows what you care about at a glance: the time, the weather, prayer times, your parcels and more. It also warns you about things like earthquakes and rain.
 
 Meet Pico, the little coral owl who keeps you company when a screen has nothing to show.
